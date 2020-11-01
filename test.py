@@ -6,4 +6,4 @@ print(a)
 t = np.array([1,2])
 print(t)
 
-pritn(a)
+print(a)
